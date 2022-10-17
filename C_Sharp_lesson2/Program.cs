@@ -9,12 +9,16 @@ namespace C_Sharp_lesson2
 
         static void Main(string[] args)
         {
-            Console.WriteLine(divideNumeros(18,7));
+            Console.WriteLine(Suma(7,5.3));
+            
         }
 
-        static double divideNumeros(double num1, int num2) => num1 / num2;
+        //expresion bodied
+        static int Suma(int operador1, int operador2) => operador1 + operador2;
 
+        static int Suma(int numero1, double numero2) => numero1;
 
+        static int Suma(int numero1, int numero2, int numero3, int numero4) => numero1 + numero2;
 
 
     }
