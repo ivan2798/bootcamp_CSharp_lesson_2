@@ -9,17 +9,19 @@ namespace C_Sharp_lesson2
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Suma(7,5.3));
+            int valor1 = 7;
+
+            double valor2 = 5.2;
+
+            double valor3 = 8.3;
+
+            Console.WriteLine(Suma(valor1, valor2, valor3));
             
         }
 
-        //expresion bodied
-        static int Suma(int operador1, int operador2) => operador1 + operador2;
-
-        static int Suma(int numero1, double numero2) => numero1;
-
-        static int Suma(int numero1, int numero2, int numero3, int numero4) => numero1 + numero2;
-
-
+        private static double Suma(int num1, double num2, double num3=0)
+        {
+            return num1 + num2 + num3;
+        }
     }
 }
