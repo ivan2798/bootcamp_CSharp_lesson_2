@@ -9,13 +9,10 @@ namespace C_Sharp_lesson2
 
         static void Main(string[] args)
         {
-            sumaNumeros(7,9);
+            Console.WriteLine(divideNumeros(18,7));
         }
 
-        static void sumaNumeros(int num1, int num2)
-        {
-            Console.WriteLine($"La suma de los numeros es: {num1+num2}");
-        }
+        static double divideNumeros(double num1, int num2) => num1 / num2;
 
 
 
