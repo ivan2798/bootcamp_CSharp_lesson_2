@@ -1,0 +1,15 @@
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\bin\Debug\net6.0\C_Sharp_lesson2.exe
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\bin\Debug\net6.0\C_Sharp_lesson2.deps.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\bin\Debug\net6.0\C_Sharp_lesson2.runtimeconfig.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\bin\Debug\net6.0\C_Sharp_lesson2.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\bin\Debug\net6.0\C_Sharp_lesson2.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.csproj.AssemblyReference.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.AssemblyInfoInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.AssemblyInfo.cs
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.csproj.CoreCompileInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\refint\C_Sharp_lesson2.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\C_Sharp_lesson2.genruntimeconfig.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_lesson2\C_Sharp_lesson2\obj\Debug\net6.0\ref\C_Sharp_lesson2.dll
